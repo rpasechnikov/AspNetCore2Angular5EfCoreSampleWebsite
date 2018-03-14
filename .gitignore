@@ -213,5 +213,4 @@ _Pvt_Extensions/
 ModelManifest.xml
 
 # Project-specific files and folders
-OlgaPasechnikovaWebsite/OlgaPasechnikovaWebsite/App_Data/Images/
-OlgaPasechnikovaWebsite/Client_Core/wwwroot/
+wwwroot/
